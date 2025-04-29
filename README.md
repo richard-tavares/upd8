@@ -55,6 +55,11 @@ routes/
 
 ---
 
+# 🛢️ Diagrama do Banco de Dados
+![database-diagram](https://github.com/user-attachments/assets/0813ac23-ee3b-4320-b9ba-e0a7757da35a)
+
+---
+
 # ⚙️ Como Rodar o Projeto
 
 ### 1. Clonar o repositório
