@@ -3,6 +3,8 @@
 
 Bem-vindo ao repositório do teste prático desenvolvido para a :upd8! Este projeto visa demonstrar competências técnicas em desenvolvimento web, arquitetura de sistemas e boas práticas de código.
 
+![screencapture-upd8](https://github.com/user-attachments/assets/0fc7cb83-9c0c-43b6-8610-0bfc116eb826)
+
 ---
 
 # 🚀 Tecnologias Utilizadas
